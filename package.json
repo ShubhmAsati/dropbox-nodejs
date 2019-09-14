@@ -1,0 +1,25 @@
+{
+  "name": "dropbox-nodejs",
+  "version": "1.0.0",
+  "description": "a simple dropbox file upload demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhmAsati/dropbox-nodejs.git"
+  },
+  "author": "shubham asati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhmAsati/dropbox-nodejs/issues"
+  },
+  "homepage": "https://github.com/ShubhmAsati/dropbox-nodejs#readme",
+  "dependencies": {
+    "dropbox": "^4.0.30",
+    "fs": "0.0.1-security",
+    "isomorphic-fetch": "^2.2.1",
+    "request": "^2.88.0"
+  }
+}
